@@ -1,14 +1,14 @@
 # ChangeLog
 
-### Correzioni di bug
+### Bug Fixes
 
-### Correzioni di sviluppo
+### Development Fixes
 
-### Miglioramenti del sito
+### Forward Ports
 
-### Miglioramenti minori
+### Minor Enhancements
 
-### Terminare
+### Site Enhancements
 
 ## v0.0.2 / 2017-03-11
 
